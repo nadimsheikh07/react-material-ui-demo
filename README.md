@@ -6,7 +6,7 @@ This is the task manager application build in React + Material UI.
 
 For start this application we need to setup backend REST API's
 
-[Please go through this link for setup REST API's] (https://github.com/GKMIT/adonisjs-task-manager)
+[Please go through this link for setup REST API's] (https://github.com/nadimsheikh07/adonisjs-demo)
 
 ## Setup
 
